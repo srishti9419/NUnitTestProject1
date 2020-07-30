@@ -15,6 +15,7 @@ namespace NUnitTestProject1
         {
             Assert.Pass();
             Console.WriteLine("hello");
+            Console.WriteLine("hi rajesh");
         }
     }
 }
